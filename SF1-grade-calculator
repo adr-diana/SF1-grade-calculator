@@ -1,0 +1,11 @@
+input("enter the number of labs completed")
+input("enter the number of quizzes completed")
+input("enter grade for assignment 1")
+input("enter grade for assignment 2")
+input("enter grade for assignment 3")
+input("enter grade for assignment 4")
+input("enter grade for midterm 1")
+input("enter gtade for midterm 2")
+input("enter grade for final exam")
+input("enter grades for mideterms and final preparation")
+
